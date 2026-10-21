@@ -1,0 +1,11 @@
+release/
+bin/
+obj/
+.vs/
+*.user
+*.log
+*.nupkg
+test-results.txt
+monitor-test.txt
+upgrade-test*.txt
+firewall-recovery.xml
